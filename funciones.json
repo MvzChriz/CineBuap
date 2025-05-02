@@ -1,0 +1,27 @@
+[
+    {
+        "pelicula": "Cars",
+        "horario": "19:00",
+        "sala": "B4"
+    },
+    {
+        "pelicula": "Interestellar",
+        "horario": "18:00",
+        "sala": "B2"
+    },
+    {
+        "pelicula": "Need For Speed",
+        "horario": "20:00",
+        "sala": "A1"
+    },
+    {
+        "pelicula": "Avengers",
+        "horario": "12:00",
+        "sala": "C2"
+    },
+    {
+        "pelicula": "Harry Potter",
+        "horario": "21:00",
+        "sala": "F2"
+    }
+]

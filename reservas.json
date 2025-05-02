@@ -1,0 +1,52 @@
+[
+    {
+        "pelicula": "Cars",
+        "horario": "19:00",
+        "asientos": [
+            "E3"
+        ],
+        "fecha": "2025-05-02T09:23:10.043521"
+    },
+    {
+        "pelicula": "Interestellar",
+        "horario": "18:00",
+        "asientos": [
+            "B3"
+        ],
+        "fecha": "2025-05-02T09:28:38.658349"
+    },
+    {
+        "pelicula": "Interestellar",
+        "horario": "18:00",
+        "asientos": [
+            "A1"
+        ],
+        "fecha": "2025-05-02T10:10:55.693167"
+    },
+    {
+        "pelicula": "Interestellar",
+        "horario": "18:00",
+        "asientos": [
+            "A1",
+            "A2"
+        ],
+        "fecha": "2025-05-02T10:11:17.232869"
+    },
+    {
+        "pelicula": "Interestellar",
+        "horario": "18:00",
+        "asientos": [
+            "A1",
+            "A2"
+        ],
+        "fecha": "2025-05-02T10:13:07.919942"
+    },
+    {
+        "pelicula": "Interestellar",
+        "horario": "18:00",
+        "asientos": [
+            "A3"
+        ],
+        "fecha": "2025-05-02T10:14:00.110092"
+    }
+]
